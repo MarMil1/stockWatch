@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Stock Watch</string>
+    <string name="add_stock">Add Stock</string>
+    <string name="stock_symbol">AAPL</string>
+    <string name="full_company_name">Apple Inc.</string>
+    <string name="price">135.72</string>
+    <string name="change_percent">(0.28%)</string>
+    <string name="priceChange">0.38</string>
+    <string name="file_name">StocksDataFile.json</string>
+</resources>
