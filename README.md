@@ -24,4 +24,10 @@ If there is no network connection, the message will show up in a dialog box.
 
 ![view6](viewsDemo/view6.png)
 
+Deleting a stock is done by long press that displays dialog box.
+
+![view7](viewsDemo/view7.png)
+
 Clicking on a stock will open external browser and take the user to MarketWatch website for detailed info.
+
+To refresh stock prices and use swipe refresh swipe down.  
